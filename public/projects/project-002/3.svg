@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00bfff" stroke-width="0.5" opacity="0.08" />
+    </pattern>
+  </defs>
+  <rect width="800" height="500" fill="#05070a" />
+  <rect width="800" height="500" fill="url(#grid)" />
+  
+    <rect x="40" y="40" width="720" height="420" fill="#0a2f4a" />
+    <rect x="40" y="40" width="720" height="36" fill="rgba(0,0,0,0.25)" />
+    <circle cx="66" cy="58" r="6" fill="#ff5c5c" opacity="0.7" />
+    <circle cx="86" cy="58" r="6" fill="#ff9f43" opacity="0.7" />
+    <circle cx="106" cy="58" r="6" fill="#3ddc84" opacity="0.7" />
+    <rect x="56" y="90" width="120" height="10" fill="#00bfff" opacity="0.8" />
+<rect x="56" y="124" width="173" height="10" fill="#00bfff" opacity="0.35" />
+<rect x="56" y="158" width="226" height="10" fill="#00bfff" opacity="0.35" />
+<rect x="56" y="192" width="279" height="10" fill="#00bfff" opacity="0.8" />
+<rect x="56" y="226" width="332" height="10" fill="#00bfff" opacity="0.35" />
+<rect x="56" y="260" width="385" height="10" fill="#00bfff" opacity="0.35" />
+<rect x="56" y="294" width="438" height="10" fill="#00bfff" opacity="0.8" />
+<rect x="56" y="328" width="491" height="10" fill="#00bfff" opacity="0.35" />
+<rect x="56" y="362" width="544" height="10" fill="#00bfff" opacity="0.35" />
+  
+  <g font-family="monospace" font-size="13" fill="#00bfff" opacity="0.55">
+    <text x="40" y="480">PROJECT-002 // SCREEN_03</text>
+  </g>
+  <g stroke="#00bfff" stroke-width="1.5" opacity="0.5">
+    <path d="M12 12 L12 32 M12 12 L32 12" fill="none" />
+    <path d="M788 488 L788 468 M788 488 L768 488" fill="none" />
+  </g>
+</svg>

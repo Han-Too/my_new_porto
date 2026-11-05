@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#ff9f43" stroke-width="0.5" opacity="0.08" />
+    </pattern>
+  </defs>
+  <rect width="800" height="500" fill="#05070a" />
+  <rect width="800" height="500" fill="url(#grid)" />
+  
+        <rect x="40" y="60" width="224" height="160" fill="#4a2f0a" />
+        <rect x="56" y="76" width="192" height="80" fill="none" stroke="#ff9f43" stroke-width="1" opacity="0.35" />
+        <rect x="56" y="180" width="144" height="8" fill="#ff9f43" opacity="0.7" />
+        <rect x="56" y="198" width="94" height="6" fill="#ff9f43" opacity="0.35" />
+      
+        <rect x="288" y="60" width="224" height="160" fill="#4a2f0a" />
+        <rect x="304" y="76" width="192" height="80" fill="none" stroke="#ff9f43" stroke-width="1" opacity="0.35" />
+        <rect x="304" y="180" width="144" height="8" fill="#ff9f43" opacity="0.7" />
+        <rect x="304" y="198" width="94" height="6" fill="#ff9f43" opacity="0.35" />
+      
+        <rect x="536" y="60" width="224" height="160" fill="#4a2f0a" />
+        <rect x="552" y="76" width="192" height="80" fill="none" stroke="#ff9f43" stroke-width="1" opacity="0.35" />
+        <rect x="552" y="180" width="144" height="8" fill="#ff9f43" opacity="0.7" />
+        <rect x="552" y="198" width="94" height="6" fill="#ff9f43" opacity="0.35" />
+      
+        <rect x="40" y="244" width="224" height="160" fill="#4a2f0a" />
+        <rect x="56" y="260" width="192" height="80" fill="none" stroke="#ff9f43" stroke-width="1" opacity="0.35" />
+        <rect x="56" y="364" width="144" height="8" fill="#ff9f43" opacity="0.7" />
+        <rect x="56" y="382" width="94" height="6" fill="#ff9f43" opacity="0.35" />
+      
+        <rect x="288" y="244" width="224" height="160" fill="#4a2f0a" />
+        <rect x="304" y="260" width="192" height="80" fill="none" stroke="#ff9f43" stroke-width="1" opacity="0.35" />
+        <rect x="304" y="364" width="144" height="8" fill="#ff9f43" opacity="0.7" />
+        <rect x="304" y="382" width="94" height="6" fill="#ff9f43" opacity="0.35" />
+      
+        <rect x="536" y="244" width="224" height="160" fill="#4a2f0a" />
+        <rect x="552" y="260" width="192" height="80" fill="none" stroke="#ff9f43" stroke-width="1" opacity="0.35" />
+        <rect x="552" y="364" width="144" height="8" fill="#ff9f43" opacity="0.7" />
+        <rect x="552" y="382" width="94" height="6" fill="#ff9f43" opacity="0.35" />
+      
+  <g font-family="monospace" font-size="13" fill="#ff9f43" opacity="0.55">
+    <text x="40" y="480">PROJECT-003 // SCREEN_02</text>
+  </g>
+  <g stroke="#ff9f43" stroke-width="1.5" opacity="0.5">
+    <path d="M12 12 L12 32 M12 12 L32 12" fill="none" />
+    <path d="M788 488 L788 468 M788 488 L768 488" fill="none" />
+  </g>
+</svg>

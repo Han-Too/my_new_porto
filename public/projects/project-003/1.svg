@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#ff9f43" stroke-width="0.5" opacity="0.08" />
+    </pattern>
+  </defs>
+  <rect width="800" height="500" fill="#05070a" />
+  <rect width="800" height="500" fill="url(#grid)" />
+  
+    <rect x="40" y="40" width="720" height="60" rx="2" fill="#4a2f0a" />
+    <rect x="56" y="58" width="140" height="10" rx="2" fill="#ff9f43" opacity="0.8" />
+    <rect x="640" y="55" width="100" height="24" rx="2" fill="none" stroke="#ff9f43" stroke-width="1.5" opacity="0.6" />
+    <rect x="40" y="116" width="230" height="130" fill="#4a2f0a" />
+    <rect x="56" y="132" width="120" height="8" fill="#ff9f43" opacity="0.7" />
+    <rect x="56" y="156" width="198" height="70" fill="none" stroke="#ff9f43" stroke-width="1" opacity="0.4" />
+    <rect x="284" y="116" width="230" height="130" fill="#4a2f0a" />
+    <rect x="300" y="132" width="120" height="8" fill="#ff9f43" opacity="0.7" />
+    <polyline points="300,210 330,180 360,196 390,160 420,188 450,150 480,170" fill="none" stroke="#ff9f43" stroke-width="2" opacity="0.8" />
+    <rect x="528" y="116" width="232" height="130" fill="#4a2f0a" />
+    <rect x="544" y="132" width="120" height="8" fill="#ff9f43" opacity="0.7" />
+    <circle cx="644" cy="196" r="42" fill="none" stroke="#ff9f43" stroke-width="10" opacity="0.6" />
+    <rect x="40" y="262" width="720" height="198" fill="#4a2f0a" />
+    <rect x="56" y="278" width="140" height="8" fill="#ff9f43" opacity="0.7" />
+    <g stroke="#ff9f43" stroke-width="1" opacity="0.35">
+      <line x1="56" y1="420" x2="740" y2="420" />
+      <line x1="56" y1="300" x2="56" y2="420" />
+    </g>
+    <polyline points="56,400 130,360 204,380 278,320 352,340 426,290 500,330 574,300 648,350 722,310"
+      fill="none" stroke="#ff9f43" stroke-width="2" />
+  
+  <g font-family="monospace" font-size="13" fill="#ff9f43" opacity="0.55">
+    <text x="40" y="480">PROJECT-003 // SCREEN_01</text>
+  </g>
+  <g stroke="#ff9f43" stroke-width="1.5" opacity="0.5">
+    <path d="M12 12 L12 32 M12 12 L32 12" fill="none" />
+    <path d="M788 488 L788 468 M788 488 L768 488" fill="none" />
+  </g>
+</svg>
